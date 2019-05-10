@@ -1,4 +1,4 @@
-# debian
+# Debian Packaging
 
 - `dh_make` - Create debian control files
 - `debuild/deb-buildpackage` - Build the package

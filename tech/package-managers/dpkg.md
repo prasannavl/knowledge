@@ -1,4 +1,4 @@
-# dpkg
+# `dpkg` Package Management
 
 ## Install / Uninstall
 
@@ -36,5 +36,5 @@ Cmd | Option | Description
 
 Cmd | Description
 -- | --
-`dpkg --configure pkg_name [-a|--pending]` | Run package config
-`dpkg --triggers-only pkg_name [-a|--pending]` | Run package triggers only
+`dpkg --configure pkg_name [-a\|--pending]` | Run package config
+`dpkg --triggers-only pkg_name [-a\|--pending]` | Run package triggers only
