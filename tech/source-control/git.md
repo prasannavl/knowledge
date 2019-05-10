@@ -1,6 +1,6 @@
 # git
 
-## Revert actions
+## Undo
 
 Cmd | Description
 -- | --
