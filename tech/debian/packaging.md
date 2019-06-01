@@ -7,7 +7,7 @@
 
 - `sbuild/pbuilder` - Clean environment package builder
 
-## Resources
+## Official Resources
 
 - https://wiki.debian.org/Packaging
 - https://www.debian.org/doc/manuals/maint-guide/
@@ -16,6 +16,7 @@
 
 - https://wiki.ubuntu.com/AugustinaBlair/PackagingGuideEdit
 
-### Intuitive
+## Other Resources
 
 - https://blog.heckel.xyz/2015/10/18/how-to-create-debian-package-and-debian-repository/
+
