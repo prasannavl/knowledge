@@ -42,3 +42,7 @@ Cmd | Notes
 ## Size Options
 
 `100%FREE`, `50%FREE`, `10G`, `20M`, `2T`, etc
+
+## Resources
+
+- https://www.alibabacloud.com/blog/dynamically-increase-storage-capacity-with-lvm-%28without-rebooting%29_593935?spm=a2c4.11966460.0.0
