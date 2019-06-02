@@ -1,6 +1,6 @@
-# knowledge
+# Prasanna's Knowledge Map
 
-Documenting all this things, for reference, research and life.
+Documenting all this things for reference, research and life.
 
 ## See Also
 
