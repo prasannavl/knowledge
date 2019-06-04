@@ -10,7 +10,13 @@ sudo snap install google-cloud-sdk --classic && \
 sudo snap install azure-cli --candidate // Currently at this time, no stable available 
 ```
 
-## Storage Management
+## Resources
+
+### General
+
+- https://channel9.msdn.com/Events/Journey-to-the-Websummit--Online-Masterclasses/Deploying-Rancher-on-Azure--Rui-Carmo-Microsoft-Services/Scaling-Docker-Swarms-on-Azure--Rui-Carmo-Microsoft
+
+### Storage Management
 
 - https://www.alibabacloud.com/blog/dynamically-increase-storage-capacity-with-lvm-%28without-rebooting%29_593935?spm=a2c4.11966460.0.0
 - https://aws.amazon.com/blogs/database/using-amazon-ebs-elastic-volumes-with-oracle-databases-part-1-introduction/
