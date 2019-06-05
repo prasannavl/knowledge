@@ -13,10 +13,6 @@ sudo snap install azure-cli --candidate
 
 ## Resources
 
-### Microservices
-
-- https://www.slideshare.net/AmazonWebServices/databases-on-aws-scaling-applications-modern-data-architectures
-
 ### Scaling
 
 - https://channel9.msdn.com/Events/Journey-to-the-Websummit--Online-Masterclasses/Deploying-Rancher-on-Azure--Rui-Carmo-Microsoft-Services/Scaling-Docker-Swarms-on-Azure--Rui-Carmo-Microsoft
