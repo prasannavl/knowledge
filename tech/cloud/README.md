@@ -1,21 +1,26 @@
 # Cloud
 
-## CLIs
+## SDK CLIs
 
 Install common cloud sdks
 
 ```bash
 sudo snap install aws-cli --classic && \
 sudo snap install google-cloud-sdk --classic && \
-sudo snap install azure-cli --candidate // Currently at this time, no stable available 
+# stable channel not available at the time of writing
+sudo snap install azure-cli --candidate
 ```
 
 ## Resources
 
-### General
+### Microservices
+
+- https://www.slideshare.net/AmazonWebServices/databases-on-aws-scaling-applications-modern-data-architectures
+
+### Scaling
 
 - https://channel9.msdn.com/Events/Journey-to-the-Websummit--Online-Masterclasses/Deploying-Rancher-on-Azure--Rui-Carmo-Microsoft-Services/Scaling-Docker-Swarms-on-Azure--Rui-Carmo-Microsoft
-
+ 
 ### Storage Management
 
 - https://www.alibabacloud.com/blog/dynamically-increase-storage-capacity-with-lvm-%28without-rebooting%29_593935?spm=a2c4.11966460.0.0
