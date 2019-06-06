@@ -1,5 +1,7 @@
 # Cloud
 
+- [Kubernetes](./kubernetes.md)
+
 ## SDK CLIs
 
 Install common cloud sdks
