@@ -20,6 +20,7 @@
 - Need to use [`Kured`](https://github.com/weaveworks/kured) for node maintenance.
 - Well controlled cost structure.
 - [`aks-engine`](https://github.com/Azure/aks-engine) can be used for manually controlled Kubernetes master.
+- `ACI` as an extension of AKS through virtual nodes for burst scaling is quite useful.
 
 ### AWS EKS
 
