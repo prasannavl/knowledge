@@ -17,6 +17,7 @@ Single SOURCE:
 Multiple SOURCEs:
 
 `cp [OPTION]... SOURCE... DIRECTORY`
+
 `cp [OPTION]... -t DIRECTORY SOURCE...`
 
 - `-t, --target-directory=DIRECTORY` - All SOURCE arguments into DIRECTORY
@@ -41,6 +42,7 @@ Common cases:
 - `cp -R/-r` - Recursive (`R` is only for parity with `ls -R` where `r` is reverse sort)
 - `cp --parents ./<src> <dest>/` - To copy current [dot-prefixed] dir tree into dest
 - `cp --parents <src> <dest>` - To copy absolute path from root tree into dest
+- `cp -R src/. dest` - Copy all the contents of the src into dest. Note the `dot` after `src`
 
 Useful options:
 
