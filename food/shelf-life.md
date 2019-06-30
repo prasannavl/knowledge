@@ -9,9 +9,9 @@ Item | Description
 --- | ---
 ? | Not sure / Data not yet verified 
 ? ( ... ) | Not sure, but draft data inside parenthesis
-- | Not recommended, or not applicable
+\- | Not recommended, or not applicable
 X | Never. Just don't
-* | Check additional notes
+\* | Check additional notes
 
 ## Fruits
 
@@ -48,11 +48,11 @@ Garlic, chopped | 6-12 hours | 7-10 days | 10-12 months | *
 
 ---
 
-### Apple
+## Apple
 
 - Refrigerate in plastic container to keep dry.
 
-#### Cut Apples
+### Cut Apples
 
 - Cut apples oxidize fast exposed to air.
 - Oxidization can be slowed down by adding soaking in just a bit (or more) of pineapple, lemon, or orange juice.
