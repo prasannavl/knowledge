@@ -1,6 +1,8 @@
 # Sensitive files
 
 - Files that are sensitive, normally found in a developer's desktop.
+- These are not system config files that when misconfigured could be exploited - there's plenty
+of that. This document only covers files **that directly contain sensitive user information**.
 
 ## User files
 
@@ -15,7 +17,6 @@ Path | Package | Notes
 .ssh | ssh | keys and config
 .npmrc | npm | Auth token
 .cargo/credentials | rustup / cargo | Auth token
-
 
 ### `config` paths
 
@@ -48,4 +49,5 @@ Path | Package | Notes
 
 Path | Package | Notes
 ---  | --- | ---
+/etc/shadow | system | Hashed system passwords
 /etc/NetworkManager/system-connections/ | network-manager | Network and Wi-Fi credentials
