@@ -2,6 +2,7 @@
 
 ## Resources
 
+- https://linuxacademy.com/blog/containers/kubernetes-cheat-sheet/?utm_source=intercom&utm_medium=email&utm_campaign=2019_learnbydoing
 - https://gist.github.com/MikeSchuette/b23f88d6c16ce5b6913169685acc662d
 - https://docs.microsoft.com/en-us/azure/aks/concepts-clusters-workloads
 - https://cloud.google.com/kubernetes-engine/docs/concepts
