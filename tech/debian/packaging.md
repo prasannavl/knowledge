@@ -7,6 +7,10 @@
 
 - `sbuild/pbuilder` - Clean environment package builder
 
+## Debugging
+
+- https://michael.stapelberg.ch/posts/2019-02-15-debian-debugging-devex/
+
 ## Official Resources
 
 - https://wiki.debian.org/Packaging
