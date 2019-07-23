@@ -1,5 +1,9 @@
 # `git`
 
+## Common
+
+- `git -C repo-dir <command>` - Execute git command in a different directory 
+
 ## Undo
 
 Cmd | Description
