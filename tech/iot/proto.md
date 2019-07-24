@@ -1,0 +1,2 @@
+- https://medium.com/@hardy96tech/communication-wired-protocols-in-iot-ae263675f542
+- http://www.techplayon.com/communicate-digital-devices-like-sensors-adc-dac-iot-i2c-spi-protocols/
