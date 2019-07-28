@@ -1,0 +1,2 @@
+- https://events.static.linuxfound.org/sites/events/files/slides/LinuxConJapan2014_makita_0.pdf
+- https://blogs.msdn.microsoft.com/virtual_pc_guy/2015/02/02/hyper-v-and-wireless-networking/
