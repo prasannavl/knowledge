@@ -2,14 +2,20 @@
 
 ## Common Use Cases
 
+### Session Modifier Keys
+
+- `Enter` followed by `~`, and the modifier.
+- Help:  `Enter` followed by `~`, `?` in quick succession to list all commands.
+- ssh console: `Enter`, `~`, `C`.
+
 ### `ssh-copy-id`
 
 `ssh-copy-id user@host`
 `ssh-copy-id -i ~/.ssh/mykey user@host`
 
 - Logs into the remote using currently existing auth
-- Copies keys to from current host to remote using correct permissions
-- Adds it to  `authorized_keys` file
+- Copies public key(s) to from current host by adding it to  `$HOME/.ssh/authorized_keys` file
+- The file and any required parent dirs are automatically created.
 
 ### `ssh-agent` and `ssh-add`
 
