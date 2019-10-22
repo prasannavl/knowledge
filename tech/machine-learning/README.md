@@ -18,3 +18,10 @@
 ### Natural Language Processing
 
 - https://www.youtube.com/watch?v=fOvTtapxa9c
+
+## Domains
+
+### Search
+
+- NGram: https://blog.xrds.acm.org/2017/10/introduction-n-grams-need/
+- Levenshtein Distance: https://medium.com/@ethannam/understanding-the-levenshtein-distance-equation-for-beginners-c4285a5604f0
