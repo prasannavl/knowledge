@@ -5,6 +5,7 @@
 ### Basics
 
 - https://www.youtube.com/watch?v=z-EtmaFJieY
+- https://www.youtube.com/watch?v=ILsA4nyG7I0 (Neural Network Fundamentals)
 
 ### Statistical Models
 
