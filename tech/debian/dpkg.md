@@ -38,3 +38,8 @@ Cmd | Description
 -- | --
 `dpkg --configure pkg_name [-a\|--pending]` | Run package config
 `dpkg --triggers-only pkg_name [-a\|--pending]` | Run package triggers only
+
+
+## Additional Resources
+
+- https://unix.stackexchange.com/questions/187221/how-to-get-information-about-deb-package-archive
