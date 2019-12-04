@@ -2,7 +2,10 @@
 
 ## Quick References
 
-- Databases:
+### Bit Manipulations:
+    - https://medium.com/@shashankmohabia/bitwise-operators-facts-and-hacks-903ca516f28c
+
+### Databases:
     - https://www.researchgate.net/figure/CAP-theorem-with-databases-that-choose-CA-CP-and-AP_fig1_282519669
     - CAP - https://www.researchgate.net/figure/CAP-theorem-with-databases-that-choose-CA-CP-and-AP_fig1_282519669
 
