@@ -1,9 +1,15 @@
 # Interview Resources
 
+## Good Reads
+
+- https://leetcode.com/discuss/career/216554/from-0-to-clearing-uberappleamazonlinkedingoogle
+- https://www.linkedin.com/pulse/how-interview-amazon-leadership-david-anderson/
+
 ## Quick References
 
 ### Bit Manipulations:
     - https://medium.com/@shashankmohabia/bitwise-operators-facts-and-hacks-903ca516f28c
+    - https://www.quora.com/What-are-amazing-things-that-can-be-done-using-bit-wise-and-relational-operators-in-C-C++
 
 ### Databases:
     - https://www.researchgate.net/figure/CAP-theorem-with-databases-that-choose-CA-CP-and-AP_fig1_282519669
