@@ -8,3 +8,8 @@
 ## Floats
 
 - http://kipirvine.com/asm/workbook/floating_tut.htm
+
+
+## Tricks
+
+- Split number bit rotation: https://stackoverflow.com/questions/1768005/how-do-i-simulate-a-bitwise-rotation-of-a-64-bit-unsigned-integer-in-javascrip
