@@ -27,3 +27,4 @@
 - IO Redirections: https://catonmat.net/bash-one-liners-explained-part-three
 - Process Substitutions: https://www.linuxjournal.com/content/shell-process-redirection
 - Exec: https://www.computerhope.com/unix/bash/exec.htm
+- Other Shells: http://hyperpolyglot.org/unix-shells
