@@ -23,3 +23,16 @@ Example:
 
 `git fetch origin pull/1/head:pr1`
 `git checkout pr1`
+
+## Submodules and Subtrees
+
+- https://nering.dev/2016/git-submodules-vs-subtrees/
+- https://www.atlassian.com/git/tutorials/git-subtree
+
+## Extended
+
+- https://gerrit-review.googlesource.com/Documentation/intro-user.html
+- https://www.mediawiki.org/wiki/Gerrit/Tutorial
+- https://gerrit.googlesource.com/git-repo/
+- https://source.android.com/setup/develop/repo
+- https://github.com/mixu/gr
