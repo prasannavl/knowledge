@@ -5,6 +5,7 @@
 - https://ubuntu.com/blog/alphabet-development - History - Hebrew, Greek, Cyrillic, Latin, Arabic
 - https://en.wikipedia.org/wiki/History_of_the_alphabet
 - https://helpful.knobs-dials.com/index.php/Morpheme,_Syllable,_Lexeme,_Grapheme,_Phoneme,_Character,_Glyph
+- https://www.theliteracynest.com/2019/08/a-phoneme-a-grapheme-a-morpheme.html
 
 ## Phonetics
 
