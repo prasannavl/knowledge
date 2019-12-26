@@ -1,5 +1,9 @@
 # Philosophy
 
+## Design
+
+- https://www.youtube.com/watch?v=0R9zjn9BBvA
+
 ## Product Management
 
 - https://www.youtube.com/watch?v=i69U0lvi89c
