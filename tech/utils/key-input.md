@@ -16,6 +16,7 @@
 - `Ctrl+Shift` + (`u, Hex code`)
 - `Intl with Alt Gr Dead Keys` Layout: Use `Alt Gr` + key for common keys
 - Use Compose Keys
+- Emojis: https://opensource.com/article/19/10/how-type-emoji-linux
 
 #### References
 
