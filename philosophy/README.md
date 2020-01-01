@@ -1,5 +1,9 @@
 # Philosophy
 
+## Entrepreneurship
+
+- https://www.linkedin.com/pulse/my-experiences-from-surge-2-sequoia-capital-prakash-kumar/?published=t
+
 ## Design
 
 - https://www.youtube.com/watch?v=0R9zjn9BBvA
