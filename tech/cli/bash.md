@@ -5,7 +5,7 @@
 - `help <builtin>` for builtin commands. Eg: `help test`, `help set`
 - `tail -f /dev/null --pid=<pid>` - wait for process to exit (from any shell, while `wait` only work for child)
 - `-v/-x` - verbose / trace
-- `-l/-i` - login / interactive 
+- `-l/-i` - login / interactive
 
 ## Dash
 
@@ -24,7 +24,10 @@
 ## References
 
 - Read: https://www.computerhope.com/unix/bash/read.htm
+- Variables and Parameter Expansion: https://wiki-dev.bash-hackers.org/syntax/pe
 - IO Redirection: https://catonmat.net/bash-one-liners-explained-part-three
 - Process Substitutions: https://www.linuxjournal.com/content/shell-process-redirection
 - Exec: https://www.computerhope.com/unix/bash/exec.htm
 - Other Shells: http://hyperpolyglot.org/unix-shells
+- getopt(s): https://dustymabe.com/2013/05/17/easy-getopt-for-a-bash-script/
+- Read Into Array: https://kaijento.github.io/2017/03/19/bash-read-file-into-array/
