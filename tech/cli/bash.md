@@ -21,6 +21,15 @@
 - `function foo()` - Works without prefix word `function`
 - `source` function. Use `.`
 
+## Bash History
+
+`!$` - last argument from previous command
+`!^` - first argument (after the program/built-in/script) from previous command
+`!!` - previous command (often pronounced "bang bang")
+`!n` - command number n from history
+`!pattern` - most recent command matching pattern
+`!!:s/find/replace` | `^find^replace` - last command, substitute find with replace
+
 ## References
 
 - Read: https://www.computerhope.com/unix/bash/read.htm
@@ -31,3 +40,4 @@
 - Other Shells: http://hyperpolyglot.org/unix-shells
 - getopt(s): https://dustymabe.com/2013/05/17/easy-getopt-for-a-bash-script/
 - Read Into Array: https://kaijento.github.io/2017/03/19/bash-read-file-into-array/
+- Bash history: https://stackoverflow.com/a/36654936
