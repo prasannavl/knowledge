@@ -5,10 +5,13 @@ My personal devices
 ## Current
 
 - Lenovo Thinkpad X1 Extreme [2019-06] #laptop
+- Lenovo Thinkpad X1 Carbon V6 [2019] #laptop
 - OnePlus 6T [2019-07] #mobile
+- Google Pixel 3a [2020] #mobile
 
 ### Operational
 
+- HP x360 14 G1 Chromebook [2020] #laptop
 - HP Envy 15 (ae009tx) [2015] #laptop
 - Dell Inspiron 7537 [2013] #laptop #to-mom
 
